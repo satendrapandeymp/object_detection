@@ -7,7 +7,7 @@ Git link of tutorial, Clone and merge with tenserflow object_detection --
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 compile .proc file --
-protoc --python_out=. .\object_detection\protos\*.proto
+protoc --python_out=. ./object_detection/protos/*.proto
 
 ### Install 
 python setup.py build
