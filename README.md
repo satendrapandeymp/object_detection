@@ -15,8 +15,9 @@ Adding to python path
 ```export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim```
 
 ### Install 
-python setup.py build
-python setup.py install
+
+```python setup.py build```
+```python setup.py install```
 
 ### for labelling 
 1) ```sudo apt-get install pyqt4-dev-tools```
