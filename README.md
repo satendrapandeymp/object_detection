@@ -60,6 +60,8 @@ some modification -:
 3) label_map_path: "C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt"
 4) input_path : "C:/tensorflow1/models/research/object_detection/test.record"
 5) label_map_path: "C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt"
+
+Thank you...
 7) num_examples using test images
 
 ### Running training
